@@ -1,0 +1,9 @@
+# Contenido recomendado para el archivo .gitignore en proyectos Python:
+__pycache__/
+*.pyc
+.venv/
+env/
+.vscode/
+.idea/
+*.log
+.env
